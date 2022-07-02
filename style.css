@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(50, 50, 50);
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 60px;
+    color: rgba(240, 248, 255, 0.796);
+}
+
+main{
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 4px;
+}
+
+.case{
+    background-color: black;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.container{
+    margin: 10px;
+}
+
+.col{
+    margin: 5px;
+    padding: 0;
+}
+
+.row{
+    margin-right: 5px;
+}
+
+button{
+    width:100%;
+}
+
+#display{
+    background-color: white;
+    padding: 5px 0px 5px 20px;
+    margin: 0;
+    border: solid 4px rgb(46, 46, 46);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+p{
+    height: 10px;
+}
+
+
+
+
+
